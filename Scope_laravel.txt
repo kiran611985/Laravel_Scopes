@@ -1,0 +1,6 @@
+In simple terms laravel scope is just a query, a query to make the code shorter and faster. We can create custom query with relation or anything with scopes. 
+
+Let's create a simple with today() scope and it will get only today records.
+Step 1: Create Scope in Model
+
+We will add today scope in our post model. So when we query in controller then we will use that scope in laravel model.
